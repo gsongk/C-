@@ -1,0 +1,11 @@
+C:\Users\Grace\Documents\Visual Studio Code\E-Commerce\bin\Debug\netcoreapp2.1\E-Commerce.deps.json
+C:\Users\Grace\Documents\Visual Studio Code\E-Commerce\bin\Debug\netcoreapp2.1\E-Commerce.runtimeconfig.json
+C:\Users\Grace\Documents\Visual Studio Code\E-Commerce\bin\Debug\netcoreapp2.1\E-Commerce.runtimeconfig.dev.json
+C:\Users\Grace\Documents\Visual Studio Code\E-Commerce\bin\Debug\netcoreapp2.1\E-Commerce.dll
+C:\Users\Grace\Documents\Visual Studio Code\E-Commerce\bin\Debug\netcoreapp2.1\E-Commerce.pdb
+C:\Users\Grace\Documents\Visual Studio Code\E-Commerce\obj\Debug\netcoreapp2.1\E-Commerce.csprojAssemblyReference.cache
+C:\Users\Grace\Documents\Visual Studio Code\E-Commerce\obj\Debug\netcoreapp2.1\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\Grace\Documents\Visual Studio Code\E-Commerce\obj\Debug\netcoreapp2.1\E-Commerce.AssemblyInfoInputs.cache
+C:\Users\Grace\Documents\Visual Studio Code\E-Commerce\obj\Debug\netcoreapp2.1\E-Commerce.AssemblyInfo.cs
+C:\Users\Grace\Documents\Visual Studio Code\E-Commerce\obj\Debug\netcoreapp2.1\E-Commerce.dll
+C:\Users\Grace\Documents\Visual Studio Code\E-Commerce\obj\Debug\netcoreapp2.1\E-Commerce.pdb
